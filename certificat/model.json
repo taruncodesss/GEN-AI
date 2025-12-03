@@ -1,0 +1,57 @@
+{
+  "order": 2,
+  "model": {
+    "<START>||<START>": {
+      "The": 1
+    },
+    "<START>||The": {
+      "sun": 1
+    },
+    "The||sun": {
+      "rose.": 1,
+      "set.": 1
+    },
+    "sun||rose.": {
+      "The": 1
+    },
+    "rose.||The": {
+      "sun": 1
+    },
+    "sun||set.": {
+      "The": 1
+    },
+    "set.||The": {
+      "cat": 1
+    },
+    "The||cat": {
+      "slept.tnyhrj5un5ujmkn46u": 1
+    },
+    "cat||slept.tnyhrj5un5ujmkn46u": {
+      "757": 1
+    },
+    "slept.tnyhrj5un5ujmkn46u||757": {
+      "46jjurt": 1
+    },
+    "757||46jjurt": {
+      "htgh": 1
+    },
+    "46jjurt||htgh": {
+      "ndgfnhrg": 1
+    },
+    "htgh||ndgfnhrg": {
+      "nmrmn": 1
+    },
+    "ndgfnhrg||nmrmn": {
+      "ythn": 1
+    },
+    "nmrmn||ythn": {
+      "yrymnrymr": 1
+    },
+    "ythn||yrymnrymr": {
+      "r": 1
+    },
+    "yrymnrymr||r": {
+      "<STOP>": 1
+    }
+  }
+}
